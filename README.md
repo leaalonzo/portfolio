@@ -5,13 +5,10 @@ Welcome to the Finance Portfolio Dashboard & Crypto Price Visualization app!
 
 ## 🎯 Features
 
-✅ Portfolio Allocation:
-
-✅ Crypto Price Visualization:
-
-✅ User-Friendly Dashboard:
-
-✅ Live Data Integration:
+✅ Portfolio Allocation
+✅ Crypto Price Visualization
+✅ User-Friendly Dashboard
+✅ Live Data Integration
 
 
 ## 📌 Future Enhancements
